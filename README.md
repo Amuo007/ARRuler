@@ -5,12 +5,11 @@ ARRuler is an iOS application that leverages Apple's ARKit to provide real-time 
 
 ## Screenshots
 
-### 📏 Screenshots 1
+### 📏 Screenshots 1,2
+<div style="display: flex; gap: 10px;">
 <img src="1.PNG" alt="Measuring View" width="300"/>
-
-### 📐 Screenshots 2
 <img src="2.PNG" alt="Measuring View" width="300"/>
-
+</div>
 ## Features
 
 - **Augmented Reality Measurement**: Measure distances in 3D space with high accuracy  
